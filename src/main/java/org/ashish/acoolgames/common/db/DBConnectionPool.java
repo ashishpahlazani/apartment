@@ -27,8 +27,8 @@ public class DBConnectionPool {
 
 	private DBConnectionPool() {
 		try {
-			//Properties dbProperties = loadPropertiesFile("freemysqlhosting.properties");
-			Properties dbProperties = loadPropertiesFile("localDataSource.properties");
+			Properties dbProperties = loadPropertiesFile("freemysqlhosting.properties");
+			//Properties dbProperties = loadPropertiesFile("localDataSource.properties");
 			setUpPool(dbProperties);
 		} catch (Exception e) {
 			logger.error(e);
