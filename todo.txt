@@ -1,0 +1,8 @@
+1. Implement update functionality
+2. Authentication
+3. Check why URI is not coming with add
+4. Caching
+5. Heroku deployment
+6. Add email field
+7. Validation on add (done)
+8. 

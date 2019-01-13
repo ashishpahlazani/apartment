@@ -1,0 +1,6 @@
+2018-12-24 00:25:23,060 ERROR [main] org.ashish.acoolgames.common.db.DBConnectionPool  -Exception while loading properties : java.io.FileNotFoundException: C:\Users\Ashish%20Pahlazani\git\myapartment\myapartment\target\classes\freemysqlhosting.properties (The system cannot find the path specified)
+
+2018-12-24 00:25:23,070 ERROR [main] org.ashish.acoolgames.common.db.DBConnectionPool  -org.ashish.acoolgames.myapartment.exception.ConfigurationException: java.io.FileNotFoundException: C:\Users\Ashish%20Pahlazani\git\myapartment\myapartment\target\classes\freemysqlhosting.properties (The system cannot find the path specified)
+
+2018-12-24 00:25:23,070 ERROR [main] org.ashish.acoolgames.myapartment.db.UnitProfileMappingDao  -Exception getting unit: java.lang.NullPointerException
+
